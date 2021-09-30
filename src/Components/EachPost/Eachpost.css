@@ -1,0 +1,12 @@
+.text-area{
+    margin: 20px;
+    background-color: mistyrose;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding: 10px;
+    color: rgba(0, 0, 0, 0.877);
+    font-size: 20px;
+}
+.likes-area{
+    font-size: 20px;
+}
